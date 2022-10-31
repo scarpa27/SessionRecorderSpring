@@ -1,7 +1,6 @@
-# SessionRecorderSpring
+## SessionRecorderSpring
 
-## LIVE @ https://session-recorder-backend.herokuapp.com
+### LIVE @ https://session-recorder.herokuapp.com/
+#### API LIVE @ https://session-recorder-backend.herokuapp.com
 
-## root for API calls is /api/
-
-### GET /project   return a list of projects and their recorded sessions
+##### GET .../api/project   return a list of projects and their recorded sessions
